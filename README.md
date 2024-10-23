@@ -7,7 +7,7 @@ Hướng dẩn đăng kí
 Nhập ref code: qdffkscy
 
 Download Tool
-https://t.me/mitomchanel/3797
+
 Điền data.txt theo định dạng email|data
 Lệnh python main.py
 
